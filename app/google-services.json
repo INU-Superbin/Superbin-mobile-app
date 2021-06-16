@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482299162069",
+    "project_id": "world-best-bin",
+    "storage_bucket": "world-best-bin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482299162069:android:fac39390ec8a6ce461215c",
+        "android_client_info": {
+          "package_name": "com.example.WorldBestBin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482299162069-ilbsvhb791m0mg6pnv0boq7oulo6tgjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpThryob2_FTvAyv0KIjUqfqQctNg1a3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482299162069-ilbsvhb791m0mg6pnv0boq7oulo6tgjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
