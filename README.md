@@ -10,7 +10,10 @@ Android Studio로 구현한 슈퍼빈 모바일 애플리케이션
 4. map api를 통한 앱에서의 쓰레기통 위치 확인
 5. 초음파센서를 이용하여 앱에서의 쓰레기통 포화 여부 실시간 확인
 ## 외관
-<img width="1104" alt="스크린샷 2021-06-16 오후 8 23 45" src="https://user-images.githubusercontent.com/40820405/122210669-d961e600-cee0-11eb-9239-17847e49f9e0.png">  
+<img width="1104" alt="스크린샷 2021-06-16 오후 8 23 45" src="https://user-images.githubusercontent.com/40820405/122210669-d961e600-cee0-11eb-9239-17847e49f9e0.png">
+
+## 모바일
+<img width="1160" alt="스크린샷 2021-06-18 오후 5 27 59" src="https://user-images.githubusercontent.com/40820405/122531887-e86ca380-d05a-11eb-98ae-4dd7dc1e394f.png">
 
 ## 포스터
 ![2021졸업작품집_구술_04](https://user-images.githubusercontent.com/40820405/121998352-b3581b00-cde6-11eb-8d90-308ee61a3394.jpg)
