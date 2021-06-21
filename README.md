@@ -15,5 +15,9 @@ Android Studio로 구현한 슈퍼빈 모바일 애플리케이션
 ## 모바일
 <img width="1160" alt="스크린샷 2021-06-18 오후 5 27 59" src="https://user-images.githubusercontent.com/40820405/122531887-e86ca380-d05a-11eb-98ae-4dd7dc1e394f.png">
 
+- kakao map api   
+- firebase realtime database
+
+
 ## 포스터
 ![2021졸업작품집_구술_04](https://user-images.githubusercontent.com/40820405/121998352-b3581b00-cde6-11eb-8d90-308ee61a3394.jpg)
