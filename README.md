@@ -21,3 +21,6 @@ Android Studio로 구현한 슈퍼빈 모바일 애플리케이션
 
 ## 포스터
 ![2021졸업작품집_구술_04](https://user-images.githubusercontent.com/40820405/121998352-b3581b00-cde6-11eb-8d90-308ee61a3394.jpg)
+
+## 동영상  
+[![세계최빈-슈퍼빈](http://img.youtube.com/vi/LiWbCBSUfwg/sddefault.jpg)](https://youtu.be/LiWbCBSUfwg?t=0s)
